@@ -34,7 +34,7 @@ karate-poc/
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/alexgp94/karateDSL
 cd karate-poc
 mvn clean install
 ```
